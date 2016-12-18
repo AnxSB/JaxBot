@@ -1,2 +1,1 @@
-# JaxBot
-Kik bot testing, personal project. 
+Wow addon
