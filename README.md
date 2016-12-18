@@ -1,1 +1,1 @@
-World of Warcraft Rep reminder, created by Jaxiki. 
+World of Warcraft QoL Addon created by Jaxiki. 
